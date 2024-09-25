@@ -3,7 +3,7 @@
 // Primitive data -- call by value --creates copy of the original data
 // Non Primitive data -- call by reference , updates original data
 
-//  Primitive
+//  Primitive ----- Stack
 
 //  7 types : String, Number, Boolearn, null, undefined, Symbol, BigInt
 
@@ -25,7 +25,7 @@ const bigNumber = 3456543576654356754n //bigInt
 
 
 
-// Reference (Non primitive)
+// Reference (Non primitive) --- heap
 
 // Array, Objects, Functions
 
